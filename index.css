@@ -1,0 +1,49 @@
+@charset "UTF-8" ;
+body{
+    margin: 0;
+    border-block:
+    font-size: 18px;
+  line-height: 32px;
+  overflow-x: hidden;
+  
+}
+nav a {
+    text-decoration: none;
+    padding: 80px;
+    color: white;
+}
+nav{
+    background-color: #b38162;
+}
+.para2{
+    background-color: #7bdcb5;
+}
+article{
+    border-block: ;
+    display: flex;
+}
+picture{
+    display: flex;
+}
+.para4{
+    background-color: yellow;
+    text-align: center;
+}
+img{
+    width: 500px;
+    justify-content: center;
+    padding: 50px;
+   
+    
+}
+article{
+    justify-content: center;
+    
+}
+picture img {
+   
+}
+.para2{
+    text-align: center;
+}
+
